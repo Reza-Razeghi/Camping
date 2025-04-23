@@ -1,0 +1,20 @@
+@media (min-width: 57.6rem) {
+  .container {
+    width: 54rem;
+  }
+}
+@media (min-width: 76.8rem) {
+  .container {
+    width: 72rem;
+  }
+}
+@media (min-width: 99.2rem) {
+  .container {
+    width: 96rem;
+  }
+}
+@media (min-width: 120rem) {
+  .container {
+    width: 114rem;
+  }
+}
