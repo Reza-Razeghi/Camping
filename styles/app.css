@@ -29,8 +29,8 @@ a {
 .header {
   background: linear-gradient(rgba(59, 55, 53, 0.5), rgba(59, 55, 53, 0.5)),
     url("../assets/images/images/header-bg.jpg");
-    background-position: center;
-    background-size: cover;
+  background-position: center;
+  background-size: cover;
 }
 .nav {
   display: flex;
@@ -99,7 +99,7 @@ a {
   border-radius: 0.5rem;
   position: absolute;
   top: 0.8rem;
-  transition:all 250ms ease-in-out
+  transition: all 250ms ease-in-out;
 }
 .mobile-menu__line::before {
   content: " ";
@@ -110,5 +110,5 @@ a {
   border-radius: 0.5rem;
   position: absolute;
   bottom: 0.8rem;
-  transition:all 250ms ease-in-out
+  transition: all 250ms ease-in-out;
 }
